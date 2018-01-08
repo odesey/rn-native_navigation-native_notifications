@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dev/Documents/Apps/rn52/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/dev/Documents/Apps/rn52/android/app/build/intermediates/exploded-aar/rn52/react-native-navigation/unspecified/res/menu/stub.xml"
+    },
+    {
+        "merged": "/Users/dev/Documents/Apps/rn52/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/dev/Documents/Apps/rn52/android/app/build/intermediates/exploded-aar/rn52/react-native-navigation/unspecified/res/menu/search_item.xml"
+    }
+]
